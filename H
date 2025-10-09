@@ -1,0 +1,14 @@
+# 1. Download the project
+git clone https://github.com/notasnek/roblox-autojoiner.git
+
+# 2. Go into the folder
+cd roblox-autojoiner
+
+# 3. Install requirements
+pip3 install websockets colorama keyboard
+
+# 4. Set your Discord token
+export DISCORD_TOKEN="paste_your_token_here"
+
+# 5. Run the script
+python3 main.py
